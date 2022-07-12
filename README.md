@@ -27,6 +27,6 @@ testQuestion 메소드는 페이징을 위한 더미 데이터 생성
 
 answer package: 답변에 대한 코드    
 question package: 질문에 대한 코드    
-user package:  유저에 대한 코드  
-controller package: 설정 및 보조 코드 
-layout.html : 홈페이지의 frame 
+user package:  유저에 대한 코드    
+controller package: 설정 및 보조 코드   
+layout.html : 홈페이지의 frame   
